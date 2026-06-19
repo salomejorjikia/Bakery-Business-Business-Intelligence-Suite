@@ -1,7 +1,7 @@
  🥐 Bakery Business Intelligence Suite
 
 An interactive end-to-end Power BI analytics suite designed to optimize sales strategies, evaluate product performance, and deliver predictive future growth insights for a multi-branch bakery enterprise tracking over $1M in revenue.
-<img width="1920" height="1110" alt="ezgif com-speed" src="https://github.com/user-attachments/assets/b2195b6c-9ffb-41f1-986c-ad336744c3e8" />#
+<img width="1920" height="1110" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/ecece248-4ff7-49ed-afe7-9b14c93f6fb1" />
 
 ---
 
@@ -22,7 +22,8 @@ The objective of this project was to synthesize historical transaction data into
 ## 📈 Key Visual Insights & Portfolio Pages
 
 ### 1. Executive Performance View 
-<img width="2075" height="1200" alt="project_page-0001" src="https://github.com/user-attachments/assets/19f06f9e-ef41-4e5b-a91e-86495936447c" />
+<img width="2075" height="1200" alt="project_page-0001" src="https://github.com/user-attachments/assets/7cb5fda6-a746-46ca-9a1a-bb760ef4de3a" />
+
 
 * **What it tracks:** High-level summary metric cards highlighting Total Quantity, Revenue, Cost, and Growth metrics.
 * **Key Finding:** Identified that 2026 is projecting to be a record-breaking performance year based on active historical pacing.
